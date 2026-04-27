@@ -10,3 +10,4 @@
 - [2026-04-27T20:37:52Z] docs: update README with usage examples
 - [2026-04-27T08:06:20Z] docs: improve inline documentation
 - [2026-04-27T13:35:27Z] chore: update dependencies to latest versions
+- [2026-04-27T16:25:02Z] perf: optimize loop for better performance
