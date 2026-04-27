@@ -12,3 +12,4 @@
 - [2026-04-27T13:35:27Z] chore: update dependencies to latest versions
 - [2026-04-27T16:25:02Z] perf: optimize loop for better performance
 - [2026-04-27T18:50:33Z] docs: improve inline documentation
+- [2026-04-27T10:02:17Z] refactor: simplify conditional logic
